@@ -6,7 +6,7 @@
 	<div class="w-1/3">
 		<div>
 			<h1 class="text-lg text-bold">🌐 Sapper with TypeScript and Tailwindcss project base</h1>
-            <p>This is an example route and component to make sure everything's working.Nice bro?</p>
+            <p>This is an example route and component to make sure everything's working. Nice bro...</p>
 		</div>
 	</div>
 </div>
